@@ -1,0 +1,44 @@
+#topo
+{
+    background-image: url('../img/fundo.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#conteudo
+{
+    background: #f5f5f5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: justify;
+}
+
+#divulgacao{
+    background: #f5f5f5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+}
+
+#brasital{
+    background: #f5f5f5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+}
+
+#graficos
+{
+    background: #f5f5f5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+}
+
+#rodape
+{
+    background: #f5f5f5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+}
